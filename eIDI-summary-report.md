@@ -1,4 +1,5 @@
 #Environmental Integrated Data Infrastructure (e-IDI) 
+
 #Summary Report
 
 
@@ -81,7 +82,7 @@ The PoC architecture applied the linked data approach of connecting and publishi
 
 For the PoC, the international marked was scanned for linked data providers. A commercial vendor, Swirrl from the UK provides the back-end application functionality that was needed to achieve the PoC’s objectives.  Swirrl’s PublishMyData solution was able to harmonise and combine data, as well as providing visualisations and ability to access data.  The PublishMyData service was already able to unify multiple data sources and query one or more data sources as identified in the Scottish Government deployment, and by other UK local government agencies. The PublishMyData (Figure 1) solution includes a flexible data transformation mechanism, which allowed the PoC to adapt to differing data formats and structures made available by each data provider.  These formats were able to be transformed into a common format made available through a single access point.  
 
-![Publish My Data Overview](/media/pmd-overview.png)
+![Publish My Data Overview](pmd-overview.png)
 
 *Figure 1: Swirrl’s PublishMyData Platform*
 
@@ -139,7 +140,7 @@ When a data resource has been published on the Web, the publishing agency has a 
 - ***Recommendation***: a national approach/guidelines for consistently naming all published resources on the Web. This will also require a national Persistent Identifier (PID) service to implement logic of incoming requests for data retrieval.
 - ***Recommendation***: Implement more robust metadata frameworks that comply to metadata standards for consistently describing open data.
 
-##Conclusions
+## Conclusions
 
 We consider that the PoC is a success and the lessons learnt from it are an opportunity to build the future foundations for a national data infrastructure. This project has generated interest from a number of parties both nationally and internationally, so there will be several projects continuing on from this work.
 
