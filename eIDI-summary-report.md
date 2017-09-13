@@ -1,6 +1,6 @@
-#Environmental Integrated Data Infrastructure (e-IDI) 
+# Environmental Integrated Data Infrastructure (e-IDI) 
 
-#Summary Report
+# Summary Report
 
 
 ## Executive Summary
@@ -42,7 +42,7 @@ The learnings and recommendations from the PoC should be actively integrated wit
 As the PoC’s main aim was learning, we have made all products from the project publicly available. 
 
 
-##Introduction
+## Introduction
 
 There is an increasing demand for central and local agencies to share data at the national level for public and government purposes.  Land, Air, Water Aotearoa  (LAWA) was a great example of an application where for the first time people could learn about the state of New Zealand’s rivers and beaches in one place.  LAWA has proved to be an effective tool for viewing environmental data collected by regional councils, however today this is not sufficient for working with data for three main reasons:
 
@@ -86,7 +86,7 @@ For the PoC, the international marked was scanned for linked data providers. A c
 
 *Figure 1: Swirrl’s PublishMyData Platform*
 
-##Data
+## Data
 In order to test the PoC solution and validate the architecture, real time data was accessed from the participating data providers, described in Table 1.
 
 Participants|Data supplied
